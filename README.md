@@ -1,8 +1,13 @@
-# shiny-bassoon
+# shiny-bassoon!
 
 <h1 align="center">Hey👋, I'm Sonali Subhadarshini Sahoo.</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
-<h4 align="center">I'm a student of Computer Science and Engineering, enthusiastic about technology and continuous development. I am a creative and detail-oriented Software developer in web development, cybersecurity and UI/UX Designer in designing intuitive and visually appealing user interfaces.</h4>
+<h3 align="center">A passionate Full Stack Web Developer.</h3>
+<h4 align="center">I'm a student of Computer Science and Engineering, enthusiastic about technology and continuous development. I am a creative and detail-oriented Software developer in web development, cybersecurity and UI/UX Designer in designing intuitive and visually appealing user interfaces.
+🎓 3rd-year B.Tech CSE student  
+💻 Passionate about full-stack web development  
+🛠️ Working with ASP.NET Core, Tailwind CSS, and Razor Pages  
+☁️ Exploring cloud deployment, APIs, and clean architecture  
+📚 Always learning, building, and collaborating!</h4>
 
 - 🔭 I’m currently working on **ASP.NET Core - A backend API for tracking tasks and productivity**
 
